@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/personajeandando.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 50258dc8021fd1544ad051fe8dd69cc0
+  - enabled: 1
+    path: Assets/Scenes/interfaz.unity
+    guid: d20acac736a75a2468c939a8937476c7
   m_configObjects: {}
